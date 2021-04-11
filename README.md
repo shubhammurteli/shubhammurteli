@@ -1,4 +1,4 @@
-<p align='center'><img src ='https://i.imgur.com/uC7JRfG.png'></p>
+<p align='center'><img src ='https://i.imgur.com/u5GizQ0.png'></p>
 
 <h1 align = 'center'><i>HI, I am Shubham Murteli</i></h1>
 
